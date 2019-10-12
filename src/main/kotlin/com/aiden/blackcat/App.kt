@@ -9,7 +9,6 @@ fun main() {
     startBot(config.token) {
         configure {
             prefix = config.prefix
-            globalPath = "com.aiden.blackcat"
             deleteMode = PrefixDeleteMode.Double
         }
     }
