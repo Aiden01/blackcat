@@ -1,0 +1,2 @@
+# Blackcat
+Cutest Discord bot.
